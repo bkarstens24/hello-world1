@@ -3,26 +3,31 @@ First Repository
 Practicing a branch
 
 # Table of Contents
-- [PROJECT TITLE](#Project-title)
-- [DESCRIPTION](#Description)
-- [HOW TO RUN PROGRAM](#How-to-Run-Program)
-- [FILES USED](#Files-Used)
-- [ADDITIONAL DOCUMENTATION](#Additional-Documentation)
-- [VERSIONING](#Versioning)
+1. [PROJECT TITLE](#Project-title)
+2. [DESCRIPTION](#Description)
+3. [HOW TO RUN PROGRAM](#How-to-Run-Program)
+4. [FILES USED](#Files-Used)
+5. [ADDITIONAL DOCUMENTATION](#Additional-Documentation)
+6. [VERSIONING](#Versioning)
 
 # Project Title
-Hello World sample
+Hello World Assignment - Example used is the 2023 baseball postseason
 
 # Description
-Practing using GitHub by creating and editing this repository
+The purpose of this repository is to get use to GitHub and practice with different features.
 
 # How to Run Program
-
+This is how I would run the program
+  
 
 # Files Used
-
+- I only used one data file for this repository
+- The file is the 2023 MLB postseason
+- I found this file online
+- The file is about the 2023 MLB postseason
+- [Complete 2023 MLB Postseason Results](https://www.mlb.com/news/2023-mlb-playoff-and-world-series-schedule)
 
 # Additional Documentation
-
+*There are no additional documentation for this repository*
 
 # Versioning
