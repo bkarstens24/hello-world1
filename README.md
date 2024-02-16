@@ -18,7 +18,8 @@ The purpose of this repository is to get use to GitHub and practice with differe
 
 # How to Run Program
 This is how I would run the program
-  
+  Use this README.md file
+  Then go below and click on the link
 
 # Files Used
 - I only used one data file for this repository
@@ -31,3 +32,4 @@ This is how I would run the program
 *There are no additional documentation for this repository*
 
 # Versioning
+Since there is no **major changes** that are needed to be made in the coding process, there is no **versioning**
